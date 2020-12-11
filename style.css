@@ -1,0 +1,39 @@
+html{
+    font-family: sans-serif;
+    background-color: hsl(198, 50%, 85%);
+}
+
+h1 {
+    font-size: 48px;
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+h2 {
+    background-color: hsl(198, 50%, 50%);
+    font-size: 32px;
+}
+
+h3 {
+    background-color: hsl(198, 50%, 65%);
+    color: white;
+    font-size: 24px;
+    
+}
+
+p.poema {
+    margin-left: 40px;
+    font-style: italic;
+}
+
+p.pie {
+    text-align: right;
+    font-family: serif;
+    font-size: 16px;
+}
+
+pre {
+    background-color: white;
+    font-weight: bold;
+    font-size: 16px;
+}
